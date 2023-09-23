@@ -1,0 +1,101 @@
+categorias
+alquileres_vacío
+automóvil y transporte_compra y alquiler
+automóvil y transporte_gasolineras
+automóvil y transporte_mantenimiento
+automóvil y transporte_otros
+automóvil y transporte_parking
+automóvil y transporte_peajes
+automóvil y transporte_transporte privado
+automóvil y transporte_transporte público
+ahorro e inversión_valores
+ahorro e inversión_inversión
+ahorro e inversión_plan ahorro
+ahorro e inversión_plan pensiones
+ahorro e inversión_traspasos
+ahorro e inversión_otros
+ahorro e inversión_hucha electrónica
+ahorro e inversión_seguro de ahorro
+bancos_comisiones
+bancos_financiación
+bancos_intereses
+bancos_depósitos
+bancos_otros
+bancos_préstamos
+bancos_renting
+bancos_remesas
+bancos_liquidación tarjeta
+bancos_traspasos
+compras_apuestas y juego
+compras_comestibles
+compras_electrónica
+compras_entretenimiento
+compras_estética
+compras_mascotas
+compras_moda
+compras_ong
+compras_online
+compras_otros
+compras_supermercados
+compras_tiendas
+compras_máquinas de vending
+compras_librería papelería y revistas
+gastos empresa y profesionales_colegio
+gastos empresa y profesionales_gestoría
+gastos empresa y profesionales_notaría
+gastos empresa y profesionales_otros
+gastos empresa y profesionales_sindicatos
+gastos empresa y profesionales_paquetería
+gastos hogar_comunidad
+gastos hogar_factura agua
+gastos hogar_factura basura
+gastos hogar_factura gas
+gastos hogar_factura luz
+gastos hogar_factura teléfono
+gastos hogar_seguridad
+gastos hogar_otros
+gastos hogar_calefacción
+gastos hogar_mantenimiento y limpieza
+gastos hogar_bricolaje y decoración
+impuestos y tasas_cuotas
+impuestos y tasas_impuestos
+impuestos y tasas_multas
+impuestos y tasas_otros
+impuestos y tasas_tasas
+nóminas_vacío
+ocio_alojamientos
+ocio_viajes
+ocio_entretenimiento
+ocio_otros
+ocio_restauración
+ocio_servicios a domicilio
+otros_cheques
+otros_ingresos
+otros_otros ingresos
+otros_otros gastos
+otros_métodos de pago
+otros_otros
+otros_reintegros
+otros_no computables
+salud deporte y educación_autoescuela
+salud deporte y educación_colegio
+salud deporte y educación_dentista
+salud deporte y educación_deporte
+salud deporte y educación_farmacia
+salud deporte y educación_gimnasio
+salud deporte y educación_hospital
+salud deporte y educación_médico
+salud deporte y educación_óptica
+salud deporte y educación_otros
+salud deporte y educación_universidad
+salud deporte y educación_academias
+seguros_automóvil y moto
+seguros_otros
+seguros_seguro de vida y decesos
+seguros_seguro hogar
+seguros_seguro salud y dental
+servicios sociales ayudas y pensiones_otros
+servicios sociales ayudas y pensiones_paro
+servicios sociales ayudas y pensiones_pensión
+sin categoría_vacío
+transferencias_vacío

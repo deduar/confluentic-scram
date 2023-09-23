@@ -1,0 +1,318 @@
+N1_ID_padre,N1_Descripcion,N2_ID_padre,N2_Descripcion,N3_ID_padre,N3_Descripcion,PFM_V5,PFM_V6,BFM
+1,Ingresos,582,Ingresos financieros,512,Dividendos y plusvalías,Ahorro e inversión_Otros,Ahorro e inversión_Inversión,Bancos e Inversiones_Otros
+,,,,510,Bonificaciones,Ahorro e inversión_Otros,Ahorro e inversión_Inversión,Bancos e Inversiones_Otros
+,,,,509,Intereses,Ahorro e inversión_Inversión,Ahorro e inversión_Inversión,Bancos e Inversiones_Intereses
+,,29,Renta alquiler,587,Ingreso alquiler,Alquileres_Vacío,Vivienda_Alquileres,Alquileres_Alquileres Mobiliarios
+,,,,40,Gastos comunidad,Gastos hogar_Comunidad,Gastos hogar_Comunidad,Local_Comunidad
+,,,,43,"Mantenimiento, reparaciones y mejoras",Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Local_Mantenimiento
+,,,,41,Servicios y suministros,Gastos hogar_Otros,Gastos hogar_Otros,
+,,,,39,Impuestos municipales,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Otros
+,,,,42,Seguro del hogar,Seguros_Seguro hogar,Seguros_Seguro hogar,"Seguros_seguro de instalaciones, naves y locales"
+,,532,Ingresos autónomos y empresas,549,Venta por TPV,,,Facturación / Ventas_Ventas Tienda Física Y Tpv
+,,,,552,Venta online,,,Facturación / Ventas_Ventas Online
+,,,,553,Venta por facturas y recibos,,,Facturación / Ventas_Facturas
+,,576,Nómina,32,Finiquito,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Indemnizaciones
+,,,,18,Retribución líquida,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Pago De Nóminas
+,,,,21,Bonus,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Otros
+,,36,Otros ingresos,574,Ingresos por préstamos,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+,,,,550,Ingreso en efectivo,Otros_Ingresos,Otros_Ingresos,Otros_Ingresos
+,,,,586,Otros ingresos,Otros_Ingresos,Otros_Ingresos,Otros_Ingresos
+,,,,551,Subvenciones,Servicios sociales ayudas y pensiones_Otros,,Ayudas Y Prestaciones_Subvenciones
+,,,,571,Ampliación de capital,,,Otros_Ampliación De Capital
+,,27,Compensación madre trabajadora y familia numerosa,,,Servicios sociales ayudas y pensiones_Otros,"Servicios sociales, ayudas y pensiones_Maternidad",
+,,26,Prestaciones Seguridad Social y desempleo,589,Prestación de desempleo,Servicios sociales ayudas y pensiones_Paro,"Servicios sociales, ayudas y pensiones_Paro",
+,,,,588,Prestación de Seguridad Social,Servicios sociales ayudas y pensiones_Paro,"Servicios sociales, ayudas y pensiones_Paro",
+,,577,Dietas y reembolsos gastos profesionales,23,Dietas,,,"Gastos de Representación Y 
+de Viaje_Representación"
+,,,,25,Reembolso gastos profesionales,,,Gastos Profesionales_Otros
+,,22,"Tiques restaurant, tiques guardería y otros",,,,,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+2,Vivienda,53,Gastos alquiler,,,Alquileres_Vacío,Vivienda_Alquileres,Alquileres_Alquileres Mobiliarios
+,,44,Cuota hipoteca,,,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+,,51,"Electrodomésticos, electrónica e informática",,,Compras_Electrónica,Compras_Electrónica y complementos,Compras/Gastos_Maquinaria Y Herramientas
+,,467,Jardinería,,,Gastos hogar_Bricolaje y decoración,"Gastos hogar_Reformas, bricolaje y decoración",Local_Otros
+,,50,Mobiliario y decoración,,,Gastos hogar_Bricolaje y decoración,"Gastos hogar_Reformas, bricolaje y decoración",Local_Mobiliario
+,,71,"Bazares, ferretería y pequeño menaje",,,Gastos hogar_Bricolaje y decoración,"Gastos hogar_Reformas, bricolaje y decoración",Compras/Gastos_Maquinaria Y Herramientas
+,,46,Gastos de comunidad,212,Derramas,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,,,213,Otros,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,,,211,Ordinarios,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,214,Agua,,,Gastos hogar_Factura agua,Gastos hogar_Factura agua,Suministros /Consumos_Factura Agua
+,,520,Energía,217,Agua caliente y calefacción,Gastos hogar_Calefacción,Gastos hogar_Otros,Suministros /Consumos_Factura Gas
+,,,,215,Gas butano / propano,Gastos hogar_Calefacción,Gastos hogar_Otros,Suministros /Consumos_Factura Gas
+,,,,219,Gas natural,Gastos hogar_Calefacción,Gastos hogar_Otros,Suministros /Consumos_Factura Gas
+,,,,216,Electricidad,Gastos hogar_Factura luz,Gastos hogar_Factura electricidad,Suministros /Consumos_Factura Luz
+,,49,"Reformas, mantenimiento y reparaciones",,,Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Local_Mantenimiento
+,,521,Comunicaciones y TV,222,ADSL y teléfono fijo,Gastos hogar_Factura teléfono,Gastos hogar_Telefonía e internet,Suministros /Consumos_Internet
+,,,,223,Televisión por cable,Gastos hogar_Otros,Gastos hogar_Otros,
+,,,,224,Televisión digital,Gastos hogar_Otros,Gastos hogar_Otros,
+,,,,225,Televisión satélite,Gastos hogar_Otros,Gastos hogar_Otros,
+,,52,Otros vivienda,,,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,218,Alarma,,,Gastos hogar_Seguridad,Gastos hogar_Seguridad,Suministros /Consumos_Seguridad
+,,45,Impuestos municipales,208,Tasas de recogida de basura,Gastos hogar_Factura basura,Gastos hogar_Factura basura,Suministros /Consumos_Factura Basura
+,,,,209,Tasas de alumbrado,Gastos hogar_Factura luz,Gastos hogar_Factura electricidad,Suministros /Consumos_Factura Luz
+,,,,207,Tasas de limpieza,Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Local_Limpieza
+,,,,206,IBI,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Otros
+,,,,210,Otros,Otros_Otros,,
+,,48,Seguros del hogar,,,Seguros_Seguro hogar,Seguros_Seguro hogar,"Seguros_seguro de instalaciones, naves y locales"
+,,504,Adquisición vivienda,,,,,Local_Compra
+3,Servicio domestico,56,Transporte,,,Automóvil y transporte_Otros,,Automovil Y Transporte_Otros
+,,57,"Uniforme, material de trabajo",,,Compras_Moda,Compras_Moda y complementos,Compras/Gastos_Material y ropa de trabajo
+,,58,Otros servicio doméstico,,,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,68,Cotización a la SS,,,Impuestos y tasas_Cuotas,Impuestos y tasas_Cuotas,Impuestos Y Tasas_Seguridad Social
+,,54,Retribución neta,,,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Pago De Nóminas
+,,61,Pagas extraordinarias,,,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Pago De Nóminas
+,,63,Finiquito,,,Nóminas_Vacío,Nóminas_Vacío,Recursos Humanos_Indemnizaciones
+,,66,Seguros medicos,,,Seguros_Seguro salud y dental,Seguros_Seguro salud y dental,Seguros_Seguros De Salud
+,,55,Compensaciones dinerarias,,,,,Recursos Humanos_Indemnizaciones
+,,65,Bonus e incentivos,,,,,Recursos Humanos_Otros
+,,69,Residencia asistencial,,,,,
+4,Alimentacion,70,Supermercados y comestibles,,,Compras_Supermercados,Compras_Supermercados y grandes superficies,Compras/Gastos_Otros
+,,502,Restauración,,,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,75,Otros,,,Otros_Otros,,
+5,Vehiculos,86,Adquisición,250,Gestoría e impuestos,Gastos empresa y profesionales_Gestoría,"Gastos empresa y profesionales_Gestorías, consultorías y asesorías",Gastos Profesionales_Gestoría Y Asesoria
+,,,,251,Otros,Automóvil y transporte_Otros,,Automovil Y Transporte_Otros
+,,,,247,Valor de compraventa,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,89,Alquiler,261,Fianza,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,,,260,Cuota,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,,,262,Otros,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,77,Combustible,,,Automóvil y transporte_Gasolineras,Automóvil y transporte_Gasolineras,Automovil Y Transporte_Gasolineras
+,,80,Reparaciones y mantenimientos,242,Reparaciones,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,,,240,Revisiones oficiales,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,,,241,Otras revisiones,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,85,Lavado,,,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,82,Accesorios,,,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,573,Otros vehículos,,,Automóvil y transporte_Otros,,Automovil Y Transporte_Otros
+,,84,Parking,244,Alquiler plaza de garaje,Alquileres_Vacío,Vivienda_Alquileres,Alquileres_Alquileres Inmobiliarios
+,,,,245,Parking,Automóvil y transporte_Parking,Automóvil y transporte_Parking,Automovil Y Transporte_Parking
+,,,,246,Otros,Automóvil y transporte_Parking,Automóvil y transporte_Parking,Automovil Y Transporte_Parking
+,,83,Peajes,,,Automóvil y transporte_Peajes,Automóvil y transporte_Peajes,Automovil Y Transporte_Peajes
+,,76,Cuota préstamo vehículo,,,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+,,87,Leasing,254,Gestoria,Gastos empresa y profesionales_Gestoría,"Gastos empresa y profesionales_Gestorías, consultorías y asesorías",Gastos Profesionales_Gestoría Y Asesoria
+,,,,252,Cuota,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,,,255,Otros,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,,,253,Valor residual,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,88,Renting,258,Gestoria,Gastos empresa y profesionales_Gestoría,"Gastos empresa y profesionales_Gestorías, consultorías y asesorías",Gastos Profesionales_Gestoría Y Asesoria
+,,,,256,Cuota,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,,,259,Otros,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,,,257,Valor residual,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,79,Impuestos y tasas,238,ITV,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,,,237,Impuesto de circulación,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Otros
+,,,,239,Otros,Otros_Otros,,
+,,81,Multas y sanciones,,,Impuestos y tasas_Multas,Impuestos y tasas_Multas,Impuestos Y Tasas_Multas Y Embargos
+,,78,Seguro de vehículo,,,Seguros_Automóvil y moto,Seguros_Automóvil y moto,Seguros_Seguro Vehículos
+6,Salud,95,Farmacia,,,Salud deporte y educación_Farmacia,Salud y deporte_Farmacias y ópticas,Gastos Profesionales_Sanitarios
+,,91,Consultas privadas y hospitalizaciones,,,Salud deporte y educación_Médico,Salud y deporte_Clínicas y hospitales,Gastos Profesionales_Sanitarios
+,,476,"Óptica, ortopedia y audiología",,,Salud deporte y educación_Optica,Salud y deporte_Farmacias y ópticas,Gastos Profesionales_Sanitarios
+,,96,Otras terapias y tratamientos alternativos,,,Salud deporte y educación_Otros,Salud y deporte_Otros,Gastos Profesionales_Sanitarios
+,,90,Seguro de salud,,,Seguros_Seguro salud y dental,Seguros_Seguro salud y dental,Seguros_Seguros De Salud
+7,Educacion,332,Papelería y material,,,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,97,Preescolar,324,Transporte,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,326,Uniformes,Compras_Moda,Compras_Moda y complementos,Compras/Gastos_Material y ropa de trabajo
+,,,,321,Cuota,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,325,Comedor,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,328,Otros,Otros_Otros,,
+,,,,320,Matrícula,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,327,Equipamiento,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,99,Formación profesional,339,Cuota,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,346,Otros,Otros_Otros,,
+,,,,338,Matrícula,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,345,Equipamiento,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,,,343,Comedor,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,342,Transporte,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,98,Escolar,335,Uniformes,Compras_Moda,Compras_Moda y complementos,Compras/Gastos_Material y ropa de trabajo
+,,,,330,Cuota,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,337,Otros,Otros_Otros,,
+,,,,334,Comedor,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,333,Transporte,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,329,Matrícula,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,336,Equipamiento,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,475,Otros educación,,,Salud deporte y educación_Otros,Educación_Academias y actividades extraescolares,"Gastos de Representación Y 
+de Viaje_Formación"
+,,103,Actividades extraescolares,382,Otros,Salud deporte y educación_Otros,Educación_Academias y actividades extraescolares,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,104,Apoyo extraescolar,Salud deporte y educación_Academias,Educación_Academias y actividades extraescolares,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,107,Música y danza,Salud deporte y educación_Academias,Educación_Academias y actividades extraescolares,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,105,Idiomas,Salud deporte y educación_Academias,Educación_Academias y actividades extraescolares,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,106,Deportes,Salud deporte y educación_Deporte,Salud y deporte_Deporte,"Gastos de Representación Y 
+de Viaje_Otros"
+,,100,Universitaria,348,Cuota,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,355,Otros,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,354,Equipamiento,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,,,352,Comedor,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,351,Transporte,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,347,Matrícula,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,101,Postgrado,360,Transporte,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,357,Cuota,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,364,Otros,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,361,Comedor,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,356,Matrícula,Salud deporte y educación_Universidad,Educación_Universidad,"Gastos de Representación Y 
+de Viaje_Formación"
+,,519,Seguro educación,,,Seguros_Otros,Seguros_Otros,Seguros_Otros
+,,102,Asociaciones AMPA y AA AA,,,,,Gastos Profesionales_Colegios Y Asociaciones
+8,Gastos personales,111,Transporte público,499,Taxi,Automóvil y transporte_Transporte privado,Automóvil y transporte_Transporte privado,"Gastos de Representación Y 
+de Viaje_Transporte Privado"
+,,,,500,Otros,Automóvil y transporte_Transporte privado,Automóvil y transporte_Transporte privado,"Gastos de Representación Y 
+de Viaje_Transporte Privado"
+,,108,Teléfonos móviles y tabletas,422,Accesorios,Compras_Electrónica,Compras_Electrónica y complementos,Compras/Gastos_Maquinaria Y Herramientas
+,,,,419,Cuota,Gastos hogar_Factura teléfono,Gastos hogar_Telefonía e internet,Suministros /Consumos_Factura Teléfono
+,,,,423,Otros,,,
+,,,,420,Seguro,Seguros_Otros,Seguros_Otros,Seguros_Otros
+,,,,421,Adquisición,Compras_Electrónica,Compras_Electrónica y complementos,Compras/Gastos_Maquinaria Y Herramientas
+,,,,468,Recargas,,,
+,,110,Belleza y estética,,,Compras_Estética,Compras_Imagen personal y estética,"Gastos de Representación Y 
+de Viaje_Otros"
+,,506,Software e Internet,,,Compras_Online,Compras_Online,Compras/Gastos_Software
+,,585,Artículos de fiesta,,,Compras_Otros,Compras_Celebraciones y regalos,Compras/Gastos_Otros
+,,117,Regalos y celebraciones,,,Compras_Otros,Compras_Celebraciones y regalos,Compras/Gastos_Otros
+,,465,Puericultura y juguetes,,,Compras_Tiendas,Compras_Juguetes,Compras/Gastos_Otros
+,,472,Loterías y apuestas,,,Compras_Apuestas y juego,Compras_Apuestas y juego,Compras/Gastos_Otros
+,,113,Otros gastos personales,,,Compras_Otros,Compras_Otros,Compras/Gastos_Otros
+9,Ocio,73,"Consolas, videojuegos y entretenimiento",,,Compras_Entretenimiento,Ocio_Videojuegos,Compras/Gastos_Otros
+,,114,Cultura,424,"Libros, revistas, periódicos y suscripciones","Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,,,427,Museos y exposiciones,Ocio_Entretenimiento,"Ocio_Cines, teatro y museos","Gastos de Representación Y 
+de Viaje_Espectáculos Y Eventos"
+,,,,430,Música y video,Ocio_Entretenimiento,Ocio_Espectáculos y conciertos,"Gastos de Representación Y 
+de Viaje_Espectáculos Y Eventos"
+,,,,429,"Cine, teatro y conciertos",Ocio_Entretenimiento,"Ocio_Cines, teatro y museos","Gastos de Representación Y 
+de Viaje_Espectáculos Y Eventos"
+,,,,433,Otros,Otros_Otros,,
+,,,,431,Asociaciones culturales,Ocio_Otros,Ocio_Centros y lugares de ocio,"Gastos de Representación Y 
+de Viaje_Espectáculos Y Eventos"
+,,119,Otros ocio,,,Ocio_Otros,Ocio_Centros y lugares de ocio,"Gastos de Representación Y 
+de Viaje_Espectáculos Y Eventos"
+,,116,Restaurantes y salidas,,,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,118,Viajes,438,Alquiler vehículo,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,,,439,Combustible,Automóvil y transporte_Gasolineras,Automóvil y transporte_Gasolineras,Automovil Y Transporte_Gasolineras
+,,,,448,Parking,Automóvil y transporte_Parking,Automóvil y transporte_Parking,Automovil Y Transporte_Parking
+,,,,447,Peajes,Automóvil y transporte_Peajes,Automóvil y transporte_Peajes,Automovil Y Transporte_Parking
+,,,,446,Taxis y transporte público,Automóvil y transporte_Transporte privado,Automóvil y transporte_Transporte privado,"Gastos de Representación Y 
+de Viaje_Transporte Privado"
+,,,,442,Autobús,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,440,Tren,Automóvil y transporte_Transporte público,Automóvil y transporte_Transporte público y colectivo,"Gastos de Representación Y 
+de Viaje_Transporte Público"
+,,,,443,Hotel/Alojamiento,Ocio_Alojamientos,Ocio_Alojamientos,"Gastos de Representación Y 
+de Viaje_Hoteles"
+,,,,445,Museos y excursiones,Ocio_Entretenimiento,"Ocio_Cines, teatro y museos","Gastos de Representación Y 
+de Viaje_Otros"
+,,,,444,Alimentación y restauración,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,449,Otros,Ocio_Viajes,Ocio_Viajes,"Gastos de Representación Y 
+de Viaje_Otros"
+,,,,530,Barco,Ocio_Viajes,Ocio_Viajes,"Gastos de Representación Y 
+de Viaje_Otros"
+,,,,441,Avión,Ocio_Viajes,Ocio_Viajes,"Gastos de Representación Y 
+de Viaje_Otros"
+,,115,Deportes y clubs deportivos,436,Equipamiento y ropa deportiva,Compras_Moda,Compras_Moda y complementos,Compras/Gastos_Material y ropa de trabajo
+,,,,434,Cuotas,Salud deporte y educación_Deporte,Salud y deporte_Gimnasio y centros deportivos,"Gastos de Representación Y 
+de Viaje_Otros"
+,,,,437,Otros,Salud deporte y educación_Deporte,Salud y deporte_Gimnasio y centros deportivos,"Gastos de Representación Y 
+de Viaje_Otros"
+,,,,435,Matrícula,Salud deporte y educación_Deporte,Salud y deporte_Gimnasio y centros deportivos,"Gastos de Representación Y 
+de Viaje_Otros"
+11,Inversiones,481,Fondos,491,Capital,Ahorro e inversión_Inversión,Ahorro e inversión_Inversión,Bancos e Inversiones_Inversiones
+,,120,Otros activos,488,Capital,Ahorro e inversión_Inversión,Ahorro e inversión_Inversión,Bancos e Inversiones_Inversiones
+,,495,Plan de ahorro,496,Capital,Ahorro e inversión_Plan ahorro,Ahorro e inversión_Plan ahorro,Bancos e Inversiones_Inversiones
+,,480,Cartera de valores,128,Capital,Ahorro e inversión_Valores,Ahorro e inversión_Valores,Bancos e Inversiones_Inversiones
+,,479,Depósitos,133,Capital,Ahorro e inversión_Inversión,Ahorro e inversión_Inversión,Bancos e Inversiones_Inversiones
+,,478,Tarjetas de crédito,126,Liquidación tarjeta,Bancos_Liquidación tarjeta,Bancos_Liquidación tarjeta,Bancos e Inversiones_Liquidación Tarjeta
+,,,,503,Recarga tarjeta prepago,Bancos_Otros,Bancos_Otros,Bancos e Inversiones_Otros
+,,477,Cuentas corrientes,581,Traspasos,Bancos_Traspasos,Bancos_Traspasos,Bancos e Inversiones_Traspasos
+,,,,463,Pago con cheque o talón,Otros_Cheques,Otros_Cheques,Otros_Cheques
+,,,,462,Transferencias,Transferencias_Vacío,Transferencias_Vacío,Transferencias_Vacío
+,,127,Otros pasivos,134,Capital,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+,,,,125,Cuotas,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+15,Impuestos,140,IRPF,,,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Impuesto Irpf
+,,141,Otros tributos y tasas,,,Impuestos y tasas_Otros,Impuestos y tasas_Tasas,Impuestos Y Tasas_Tasas
+,,511,Retenciones y deducciones,,,Impuestos y tasas_Otros,,Impuestos Y Tasas_Otros
+,,554,Embargos,,,,Impuestos y tasas_Embargos,Impuestos Y Tasas_Multas Y Embargos
+17,Otros,10,Animales de compañía,,,Compras_Mascotas,Compras_Mascotas,Compras/Gastos_Otros
+,,14,Caridad y otras ayudas sociales,,,Compras_Ong,Compras_ONGs y fundaciones,Gastos Extraordinarios_Donaciones
+,,16,Otros seguros,460,Otros,Seguros_Otros,Seguros_Otros,Seguros_Otros
+,,,,518,Seguro de responsabilidad civil,Seguros_Otros,Seguros_Otros,Seguros_Seguro Responsabilidad Civil
+,,,,516,Seguro de vida,Seguros_Seguro de vida y decesos,Seguros_Seguro de vida y decesos,Seguros_Seguro De Vida Y Accidentes
+,,,,517,Seguro de decesos,Seguros_Seguro de vida y decesos,Seguros_Seguro de vida y decesos,Seguros_Seguro De Vida Y Accidentes
+469,Gastos profesionales,528,Vehículos,560,Alquiler vehículo,Automóvil y transporte_Compra y alquiler,Automóvil y transporte_Compra y alquiler,Automovil Y Transporte_Compra Y Alquiler
+,,,,541,Combustible,Automóvil y transporte_Gasolineras,Automóvil y transporte_Gasolineras,Automovil Y Transporte_Gasolineras
+,,,,561,Reparaciones,Automóvil y transporte_Mantenimiento,Automóvil y transporte_Mantenimiento,Automovil Y Transporte_Mantenimiento
+,,,,542,Parking,Automóvil y transporte_Parking,Automóvil y transporte_Parking,Automovil Y Transporte_Parking
+,,,,543,Peajes,Automóvil y transporte_Peajes,Automóvil y transporte_Peajes,Automovil Y Transporte_Peajes
+,,535,Financiación,572,Créditos,Bancos_Financiación,Bancos_Financiación,Bancos e Inversiones_Créditos
+,,,,568,Préstamos,Bancos_Préstamos,Bancos_Préstamos,Bancos e Inversiones_Préstamos
+,,,,545,Leasing,Bancos_Renting,Bancos_Renting,Automovil Y Transporte_Renting Y Leasing
+,,,,567,Avales,Bancos_Otros,Bancos_Otros,Bancos e Inversiones_Avales
+,,526,Gastos bancarios,,,Bancos_Comisiones,Bancos_Comisiones,Bancos e Inversiones_Comisiones
+,,471,Otros gastos profesionales,525,Software y sistemas,Compras_Online,Gastos empresa y profesionales_Dominios y plataformas digitales,Compras/Gastos_Software
+,,,,466,Asociaciones y colegios profesionales,Gastos empresa y profesionales_Colegio,Gastos empresa y profesionales_Colegio,Gastos Profesionales_Gestoría Y Asesoria
+,,,,505,Asesores,Gastos empresa y profesionales_Gestoría,"Gastos empresa y profesionales_Gestorías, consultorías y asesorías",Gastos Profesionales_Gestoría Y Asesoria
+,,,,527,Marketing,Gastos empresa y profesionales_Otros,Gastos empresa y profesionales_Otros,"Gastos de Representación Y 
+de Viaje_Publicidad Y Marketing"
+,,,,546,Prevención de riesgos laborales,Gastos empresa y profesionales_Otros,Gastos empresa y profesionales_Otros,Gastos Profesionales_Otros
+,,,,548,Mensajería,Gastos empresa y profesionales_Paquetería,Gastos empresa y profesionales_Paquetería y mensajería,Automovil Y Transporte_Logística
+,,,,547,Otros,Gastos empresa y profesionales_Otros,Gastos empresa y profesionales_Otros,Gastos Profesionales_Otros
+,,533,Gastos de local y oficina,531,Alquiler,Alquileres_Vacío,Vivienda_Alquileres,Alquileres_Alquileres Inmobiliarios
+,,,,529,Material de oficina,"Compras_Librería, papelería y revistas","Compras_Librería, papelería y revistas",Compras/Gastos_Papelería Y Material Oficina
+,,,,539,Mobiliario y equipamiento,Gastos hogar_Bricolaje y decoración,"Gastos hogar_Reformas, bricolaje y decoración",Local_Mobiliario
+,,,,537,Agua,Gastos hogar_Factura agua,Gastos hogar_Factura agua,Suministros /Consumos_Factura Agua
+,,,,540,Energía,Gastos hogar_Factura luz,Gastos hogar_Factura electricidad,Suministros /Consumos_Factura Luz
+,,,,524,Comunicaciones,Gastos hogar_Factura teléfono,Gastos hogar_Telefonía e internet,Suministros /Consumos_Factura Teléfono
+,,,,536,Limpieza y mantenimiento,Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Local_Mantenimiento
+,,,,575,Obras y reformas,Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Local_Mantenimiento
+,,,,570,Otros suministros,Gastos hogar_Otros,Gastos hogar_Otros,Local_Otros
+,,,,538,Alarma y seguridad,Gastos hogar_Seguridad,Gastos hogar_Seguridad,Suministros /Consumos_Seguridad
+,,522,Impuestos,578,IRPF,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Impuesto Irpf
+,,,,584,Impuesto de sociedades,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Impuesto Sociedades
+,,,,579,IVA,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Impuesto Iva
+,,,,580,Otros impuestos profesionales,Impuestos y tasas_Impuestos,Impuestos y tasas_Impuestos,Impuestos Y Tasas_Otros
+,,556,Gastos de personal,544,Taxi y transporte público,Automóvil y transporte_Transporte privado,Automóvil y transporte_Transporte privado,"Gastos de Representación Y 
+de Viaje_Transporte Privado"
+,,,,470,Cotización Seguridad Social,Impuestos y tasas_Cuotas,Impuestos y tasas_Cuotas,Impuestos Y Tasas_Seguridad Social
+,,,,559,Indemnizaciones,Nóminas_Vacío,Gastos hogar_Otros,Recursos Humanos_Indemnizaciones
+,,,,513,Pago salarios,Nóminas_Vacío,Gastos hogar_Otros,Recursos Humanos_Pago De Nóminas
+,,,,501,Comidas,Ocio_Restauración,Ocio_Restauración,"Gastos de Representación Y 
+de Viaje_Restaurantes"
+,,,,514,Viajes,Ocio_Viajes,Ocio_Viajes,"Gastos de Representación Y 
+de Viaje_Otros"
+,,,,558,Formación,Salud deporte y educación_Colegio,Educación_Colegios y guarderías,"Gastos de Representación Y 
+de Viaje_Formación"
+,,,,557,Bonus,,,
+,,534,Seguros profesionales,,,Seguros_Otros,Seguros_Otros,Seguros_Otros
+,,563,Aprovisionamientos,569,Logística,Gastos empresa y profesionales_Paquetería,Gastos empresa y profesionales_Paquetería y mensajería,Automovil Y Transporte_Logística
+,,,,564,Otros aprovisionamientos del negocio,Gastos empresa y profesionales_Otros,Gastos empresa y profesionales_Otros,
+,,,,566,Materias primas,,,Compras/Gastos_Materias Prima
+,,,,523,Mercaderías,,,Compras/Gastos_Materias Prima
+,,,,565,Trabajos realizados por otras empresas,,,Gastos Profesionales_Otros
+,,,,555,Maquinaria productiva,,,Compras/Gastos_Maquinaria Y Herramientas
+474,Vestuario,109,Ropa y complementos,,,Compras_Moda,Compras_Moda y complementos,"Gastos de Representación Y 
+de Viaje_Textil"
+,,72,"Tintorería, pequeños arreglos",,,Gastos hogar_Mantenimiento y limpieza,Gastos hogar_Mantenimiento y limpieza,Compras/Gastos_Otros
+507,Comisiones e intereses,508,Comisiones,,,Bancos_Comisiones,Bancos_Comisiones,Bancos e Inversiones_Comisiones
+,,583,Intereses,,,Bancos_Intereses,Bancos_Intereses,Bancos e Inversiones_Intereses
+515,Efectivo,112,Dinero de bolsillo,,,Bancos_Otros,Bancos_Otros,Bancos e Inversiones_Otros
+,,461,Movimiento de efectivo,,,Bancos_Traspasos,Bancos_Traspasos,Bancos e Inversiones_Traspasos
